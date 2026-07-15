@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
+metafile = true
+
+[[files]]
 file = "mods/ante.pw.toml"
 hash = "28a347f91bbad2721f385cbfa31c75ddcd35de3e5e226e79abc6b5dce25869cb"
 metafile = true
@@ -13,6 +18,11 @@ metafile = true
 [[files]]
 file = "mods/biolith.pw.toml"
 hash = "f301f059c76ece8badbcdd250ef2ac2aadf66a2759d088f95ab74c23279585e1"
+metafile = true
+
+[[files]]
+file = "mods/clavis.pw.toml"
+hash = "e23bbe0380f7a11a679106e06dee17ac7a6f88dd22a290d8b8824351161f0dae"
 metafile = true
 
 [[files]]
@@ -36,8 +46,23 @@ hash = "9a03286c9d09665e568d25e267ec552310661bf71aac9b829d9dbacbd116f768"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement-forge.pw.toml"
+hash = "fc8948d1a8837b7a89a3b754335fd53086ba89c78af9c3d07fa899761c6a9e50"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "28c29922378fa19f4edf1d16fffb48287a87be159a3378647073bbdebd2a2196"
 metafile = true
 
 [[files]]
@@ -48,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "4188848019233432861e98a5cc72aebed8c68a8a0909007967ab11827f8a6508"
 metafile = true
 
 [[files]]
@@ -71,6 +101,21 @@ hash = "1506a3d749a45bc760b3ad57ef1fbb959f0c166b6d1d4955114fd66db7a4855d"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
+metafile = true
+
+[[files]]
+file = "mods/lamb-lanterns.pw.toml"
+hash = "5633c9f1d347b6b90c7ece3b31a8783cf58e9e3b7df3cf6835286d6fc440aadf"
+metafile = true
+
+[[files]]
+file = "mods/rapid-leaf-decay.pw.toml"
+hash = "275d8e13b8bea48d95d511067bbf91ce99b38841e4461b44f9017b827dfbd8d2"
+metafile = true
+
+[[files]]
 file = "mods/neoauth.pw.toml"
 hash = "8a36f6a5dcd8149c36ac7ad1c4dce76a997b814075033d406cbbacfe197de54f"
 metafile = true
@@ -78,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/no-mans-land.pw.toml"
 hash = "55b4c00d59cfe0e2677157d41fb900e0e45fa8facb2aa7782af7070c3ecfd1aa"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "e92633222b9275744ba9ae7a90781494f67933924b56ea8287c5dc7553e77e17"
 metafile = true
 
 [[files]]
@@ -96,8 +146,8 @@ hash = "cb6136771bc5809b524b682dec39298032011fa926aebfafaece9879ab79623d"
 metafile = true
 
 [[files]]
-file = "mods/rapid-leaf-decay.pw.toml"
-hash = "275d8e13b8bea48d95d511067bbf91ce99b38841e4461b44f9017b827dfbd8d2"
+file = "mods/overflowing-bars.pw.toml"
+hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
 metafile = true
 
 [[files]]
@@ -116,8 +166,23 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
+file = "mods/shatterbyte-lib.pw.toml"
+hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "abc285fb28b8df872e4c2bb31e04fc23e2724d9c84b4cb6fbc4320fc569c758f"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
 
 [[files]]

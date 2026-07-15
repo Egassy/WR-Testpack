@@ -1,0 +1,67 @@
+[flavor_groups.firstperson]
+name="First Person Model"
+description="Changes how rendering in first person mode, showing a model of your skin so you're no longer just a floating hand. May or may not be everyone's cup of tea."
+side="client"
+[[flavor_groups.firstperson.choices]]
+id="fp_on"
+name="Yes"
+[[flavor_groups.firstperson.choices]]
+id="fp_off"
+name="No"
+
+[flavor_groups.disthor]
+name="Distant Horizons"
+description="Renders a simulation of chunks far past the game's base limitations, but may effect performance."
+side="both"
+[[flavor_groups.disthor.choices]]
+id="dh_on"
+name="Yes"
+[[flavor_groups.disthor.choices]]
+id="dh_off"
+name="No"
+
+[flavor_groups.explodenhance]
+name="Explosive Enhancement"
+description="Changes how explosions render so they're prettier than grey particle spam."
+side="client"
+[[flavor_groups.explodenhance.choices]]
+id="ee_on"
+name="Yes"
+[[flavor_groups.explodenhance.choices]]
+id="ee_off"
+name="No"
+
+[flavor_groups.overbar]
+name="Overflowing Bars"
+description="Changes armor, health, and other bars to not cover your hud egregiously, instead wrapping them over the same layer in a new colour. Disable armor toughness in the client config if you're planning to be a vampire"
+side="client"
+[[flavor_groups.overbar.choices]]
+id="ofb_on"
+name="Yes"
+[[flavor_groups.overbar.choices]]
+id="ofb_off"
+name="No"
+
+[flavor_groups.3dskin]
+name="3d Skin Layers"
+description="Adds some mass to vanilla skin layers. Just a neat cosmetic"
+side="client"
+[[flavor_groups.3dskin.choices]]
+id="3ds_on"
+name="Yes"
+[[flavor_groups.3dskin.choices]]
+id="3ds_off"
+name="No"
+
+[metafile.3dskinlayers]
+flavors=["3ds_on"]
+[metafile.distanthorizons]
+flavors=["dh_on"]
+[metafile.first-person-model]
+flavors=["fp_on"]
+[metafile.not-enough-animations]
+flavors=["fp_on"]
+[metafile.explosive-enhancement]
+flavors=["ee_on"]
+[metafile.overflowing-bars]
+flavors=["ofb_on"]
