@@ -1,0 +1,13 @@
+name = "I Need Dragon Egg"
+filename = "I Need Dragon Egg-0.6.0+neoforge1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/yf7gfWLv/versions/6KwlVE1Y/I%20Need%20Dragon%20Egg-0.6.0%2Bneoforge1.21.1.jar"
+hash-format = "sha512"
+hash = "295bce4a114586969b8e8c66e39586790168d46c4324969008483bbef7c36026d81e8ea9b67559cfa5d47a547e3e9662f6468f431b57882877eab47584bbf36d"
+
+[update]
+[update.modrinth]
+mod-id = "yf7gfWLv"
+version = "6KwlVE1Y"
