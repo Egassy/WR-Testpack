@@ -66,8 +66,8 @@ hash = "b3b56b74fa5fcb1b9488e147720c914ae3ed8e4651f0c1f2d11e56eafc8e8ba7"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "1506a3d749a45bc760b3ad57ef1fbb959f0c166b6d1d4955114fd66db7a4855d"
 metafile = true
 
 [[files]]
@@ -86,6 +86,11 @@ hash = "f56081427335f96ac7e83f479cd57f57ca2d7a28b43187599c60cd3b104d4c54"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims-warfare.pw.toml"
+hash = "850d3d90156f8018d1f689c7cda4d715d0d6bfdb538ce78278cb207b2b469f21"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "cb6136771bc5809b524b682dec39298032011fa926aebfafaece9879ab79623d"
 metafile = true
@@ -96,21 +101,6 @@ hash = "275d8e13b8bea48d95d511067bbf91ce99b38841e4461b44f9017b827dfbd8d2"
 metafile = true
 
 [[files]]
-file = "mods/searchables.pw.toml"
-hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "abc285fb28b8df872e4c2bb31e04fc23e2724d9c84b4cb6fbc4320fc569c758f"
-metafile = true
-
-[[files]]
-file = "mods/kotlin-for-forge.pw.toml"
-hash = "1506a3d749a45bc760b3ad57ef1fbb959f0c166b6d1d4955114fd66db7a4855d"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "89d21f5da7fea8b1197c6e8e5215d45f7400844560e0f7c179d3c6145bd36a95"
 metafile = true
@@ -118,6 +108,16 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "abc285fb28b8df872e4c2bb31e04fc23e2724d9c84b4cb6fbc4320fc569c758f"
 metafile = true
 
 [[files]]
