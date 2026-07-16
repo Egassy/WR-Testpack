@@ -219,3 +219,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "ff599376f7599d6593b8b9b5301f99c6e21f23aecaf8fd58f8df4e959d8e5aa9"
 metafile = true
+
+[[files]]
+file = "unsup.toml"
+hash = "161edceb979d04c4bba798b7bea16c786c2653a56dd4df00596f1141b4ba426a"
