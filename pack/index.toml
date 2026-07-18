@@ -186,11 +186,6 @@ hash = "5608323efb57a8555c1d350d5b63a267195bb8bc0601ab061e9b653eb5674d41"
 metafile = true
 
 [[files]]
-file = "mods/polymorph.pw.toml"
-hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
