@@ -91,6 +91,16 @@ hash = "4188848019233432861e98a5cc72aebed8c68a8a0909007967ab11827f8a6508"
 metafile = true
 
 [[files]]
+file = "mods/hexal-neoforge-1-21-1.pw.toml"
+hash = "7a07b99b7a44c6626d3b8efc15d2c31e4df11e6fd8f1a6b1e7473d0d91bdf57f"
+metafile = true
+
+[[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "d8c27ceab38ac9dd9c63f2b493b4480b90a48b62ec4d854cf902d3e370fcc67a"
+metafile = true
+
+[[files]]
 file = "mods/i-need-dragon-egg.pw.toml"
 hash = "b4b6a09cc94e5c34257f87a968530821869b1cddf0239bcfe173106721d38517"
 metafile = true
@@ -113,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
+metafile = true
+
+[[files]]
+file = "mods/moreiotas-neoforge-1-21-1.pw.toml"
+hash = "02b5a05ccd05cf05d806480fce020011ad17c250e2640fb5db2885a053f2bd6e"
 metafile = true
 
 [[files]]
@@ -148,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "5608323efb57a8555c1d350d5b63a267195bb8bc0601ab061e9b653eb5674d41"
 metafile = true
 
 [[files]]

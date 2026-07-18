@@ -1,0 +1,8 @@
+name = "hexcasting"
+filename = "hexcasting-neoforge-1.21.1-0.12.0-devel-pre-26.jar"
+side = "both"
+
+[download]
+url = "https://ci.blamejared.com/job/petrakat/job/Hexcasting/job/1.21/26/artifact/Neoforge/build/libs/hexcasting-neoforge-1.21.1-0.12.0-devel-pre-26.jar"
+hash-format = "sha256"
+hash = "e644136251e41752356cd92ef0cf151e4da40a9c90509481c26a65b3ba83b0e8"
