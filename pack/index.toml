@@ -6,11 +6,6 @@ hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
 metafile = true
 
 [[files]]
-file = "mods/analog-audio.pw.toml"
-hash = "7a002da9523d1fb204454508b25d7f9de93dbf752660034a61715d0b4614198d"
-metafile = true
-
-[[files]]
 file = "mods/ante.pw.toml"
 hash = "28a347f91bbad2721f385cbfa31c75ddcd35de3e5e226e79abc6b5dce25869cb"
 metafile = true
