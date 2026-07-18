@@ -1,24 +1,24 @@
 [flavor_groups.firstperson]
 name="First Person Model"
-description="Changes how rendering in first person mode, showing a model of your skin so you're no longer just a floating hand. May or may not be everyone's cup of tea."
+description="Changes how rendering in first person mode, showing a model of your skin so you're no longer just a floating hand. May or may not be everyone's cup of tea, off by default."
 side="client"
-[[flavor_groups.firstperson.choices]]
-id="fp_on"
-name="Yes"
 [[flavor_groups.firstperson.choices]]
 id="fp_off"
 name="No"
+[[flavor_groups.firstperson.choices]]
+id="fp_on"
+name="Yes"
 
 [flavor_groups.disthor]
 name="Distant Horizons"
-description="Renders a simulation of chunks far past the game's base limitations, but may effect performance."
+description="Renders a simulation of chunks far past the game's base limitations, but may effect performance. Off by default"
 side="both"
-[[flavor_groups.disthor.choices]]
-id="dh_on"
-name="Yes"
 [[flavor_groups.disthor.choices]]
 id="dh_off"
 name="No"
+[[flavor_groups.disthor.choices]]
+id="dh_on"
+name="Yes"
 
 [flavor_groups.explodenhance]
 name="Explosive Enhancement"
