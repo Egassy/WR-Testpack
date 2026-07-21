@@ -161,11 +161,6 @@ hash = "f56081427335f96ac7e83f479cd57f57ca2d7a28b43187599c60cd3b104d4c54"
 metafile = true
 
 [[files]]
-file = "mods/open-parties-and-claims-warfare.pw.toml"
-hash = "850d3d90156f8018d1f689c7cda4d715d0d6bfdb538ce78278cb207b2b469f21"
-metafile = true
-
-[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "cb6136771bc5809b524b682dec39298032011fa926aebfafaece9879ab79623d"
 metafile = true
