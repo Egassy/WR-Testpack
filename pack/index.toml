@@ -181,6 +181,11 @@ hash = "5608323efb57a8555c1d350d5b63a267195bb8bc0601ab061e9b653eb5674d41"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "e5141bf653c820b9967b8be2e3d9d8e83f3b54d0450f0cabe812e00cce481fdf"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
@@ -232,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/witchery-resurrected.pw.toml"
-hash = "82e3a6c49d29aa05a5cdb0739759b3ff6dd68accb37d2245a238af6f9b41fcc8"
+hash = "1fd323abe367532e66943877f767bff64e315d4c3e8b9649b12c6ae33db8fda1"
 metafile = true
 
 [[files]]
