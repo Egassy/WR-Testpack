@@ -101,8 +101,8 @@ hash = "4188848019233432861e98a5cc72aebed8c68a8a0909007967ab11827f8a6508"
 metafile = true
 
 [[files]]
-file = "mods/hexal-neoforge-1-21-1.pw.toml"
-hash = "7a07b99b7a44c6626d3b8efc15d2c31e4df11e6fd8f1a6b1e7473d0d91bdf57f"
+file = "mods/hexal.pw.toml"
+hash = "4baec0569dcf14af9df3c23fb05215abd75a270d0d22f74c153bc90312219270"
 metafile = true
 
 [[files]]
