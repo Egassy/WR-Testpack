@@ -102,12 +102,12 @@ metafile = true
 
 [[files]]
 file = "mods/hexal.pw.toml"
-hash = "4baec0569dcf14af9df3c23fb05215abd75a270d0d22f74c153bc90312219270"
+hash = "b1ad12dd42eea2aa188b3794bf995c429ad60fd58452ca6dc7431a1c45d54175"
 metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "168421ce719a552c1f4966cca7b68cff5b99212ebe3c11a75f7cae3bf23dbe7c"
+hash = "c5f3b6a91ec1e04bcb66f9af61d866f0a620b26388e7f3ec72b601bfb8addb7b"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreiotas.pw.toml"
-hash = "2a7d6e97fa713d051c06818f16ed10ea50797c668122dda69f03ac6a9e5d61fb"
+hash = "621eb6bc14943fb575760b6147d7c769afb98819863b8ff23bebe4f6a1affbdb"
 metafile = true
 
 [[files]]
